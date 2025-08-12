@@ -1,5 +1,5 @@
 # Minseo Kim
-- Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
+Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
 
 
 <br/>
